@@ -21,4 +21,4 @@ Browse through the sections to explore my work.
 - typing 
 - problem-solving 
 - computer literacy
-- Markdown 
+- Markdown
