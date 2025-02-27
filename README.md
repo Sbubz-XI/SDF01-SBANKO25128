@@ -22,3 +22,4 @@ Browse through the sections to explore my work.
 - problem-solving 
 - computer literacy
 - Markdown
+- Html
